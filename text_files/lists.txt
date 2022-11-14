@@ -1,0 +1,3 @@
+the new text will erase the existing text 
+this will also go next the first line
+The next line will come the after the first one

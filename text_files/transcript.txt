@@ -1,0 +1,10 @@
+CourseName                                    Credit     Points     Letter     GPE        Honor     
+--------------------------------------------- ---------- ---------- ---------- ---------- ----------
+Artificial Intelligence                       3          100        A+         4.00       12.00     
+Introduction to Data Science                  3          84         B+         3.33       9.99      
+Selected Topics in computer Sciecne           3          93         A          4.00       12.00     
+Analysis and Design of Algorithms             3          90         A          4.00       12.00     
+Research Metadology                           3          75         B          3.00       9.00      
+Introduction to Unknown                       3          83         B+         3.33       9.99
+                                             18                                           64.98
+                                                                                GPA       3.61
